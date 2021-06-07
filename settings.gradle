@@ -1,0 +1,2 @@
+rootProject.name = "FaceOrientate"
+include ':app'
